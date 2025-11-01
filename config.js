@@ -1,17 +1,17 @@
 module.exports = {
   salesforce: {
-    username: 'votre_utilisateur',
-    password: 'votre_mot_de_passe',
-    securityToken: 'votre_token_de_securite'
+    username: 'your_username',
+    password: 'your_password',
+    securityToken: 'your_security_token'
   },
   googleAnalytics: {
-    viewId: 'votre_view_id',
+    viewId: 'your_view_id',
     credentials: {
-      client_email: 'votre_email_client',
-      private_key: 'votre_cle_privee'
+      client_email: 'your_client_email',
+      private_key: 'your_private_key'
     }
   },
   slack: {
-    webhookUrl: 'https://hooks.slack.com/services/votre/webhook/url'
+    webhookUrl: 'https://hooks.slack.com/services/your/webhook/url'
   }
 };
