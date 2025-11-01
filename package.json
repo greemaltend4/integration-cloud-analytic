@@ -1,6 +1,6 @@
 {
   "name": "integration-cloud-analytic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Intégration des données des applications SaaS pour l'analyse.",
   "main": "index.js",
   "scripts": {
